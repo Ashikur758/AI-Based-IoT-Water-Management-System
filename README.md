@@ -2,7 +2,7 @@
 ### AI-Based IoT Water Management System
 
 <p align="center">
-  <img src="[docs/images/banner.png](https://github.com/Ashikur758/Part-I---Final-Capstone-Project-_IT_24047/blob/main/IoT%20Water%20Level%20Monitoring%20System.png)" alt="AquaSense AI Banner" width="100%">
+  <img src="IoT Water Level Monitoring System (1).png" alt="AquaSense AI Banner" width="100%">
 </p>
 
 <p align="center">
@@ -19,6 +19,8 @@
 </p>
 
 ---
+
+## Project Report : https://github.com/Ashikur758/AI-Based-IoT-Water-Management-System/blob/main/Ai_based_iot_water.pdf
 
 ## 📌 Table of Contents
 
@@ -62,6 +64,8 @@ Users can monitor their water system and control pumps through a web-based dashb
 - Provide remote monitoring and control.
 - Improve water resource management.
 
+
+
 ## ✨ Key Features
 
 | Feature | Description |
@@ -92,7 +96,7 @@ Users can monitor their water system and control pumps through a web-based dashb
 ### 2. Hardware Implementation
 
 <p align="center">
-  <img src="docs/images/hardware-setup.jpg" alt="AquaSense AI Hardware Setup" width="75%">
+  <img src="8403a265-547d-4bd0-8935-8eae6bea0aad.png" alt="AquaSense AI Hardware Setup" width="75%">
 </p>
 
 <p align="center">
