@@ -2,7 +2,7 @@
 ### AI-Based IoT Water Management System
 
 <p align="center">
-  <img src="docs/images/banner.png" alt="AquaSense AI Banner" width="100%">
+  <img src="[docs/images/banner.png](https://github.com/Ashikur758/Part-I---Final-Capstone-Project-_IT_24047/blob/main/IoT%20Water%20Level%20Monitoring%20System.png)" alt="AquaSense AI Banner" width="100%">
 </p>
 
 <p align="center">
